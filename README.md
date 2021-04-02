@@ -1,3 +1,12 @@
+
+About
+This is a basic React app that uses the Router library to do the "routing".
+
+To run this project, first you need to install all dependencies running one of the next commands (in the root directory, no arguments):
+* npm install 
+* yarn install
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
